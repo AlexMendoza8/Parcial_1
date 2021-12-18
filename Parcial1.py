@@ -1,3 +1,6 @@
+# Desarrollado en colaboración entre el compañero Guillermo Arjona y mi persona
+
+
 import sqlite3
 BASE_DE_DATOS = "diccionario.db"
 
